@@ -2,8 +2,8 @@
 
 Description. 
 The package package_name is used to:
-	- Calculate continuous hyperstatic beams,
-	- Find reactions, shear forces and bending moments
+ - Calculate continuous hyperstatic beams,
+ - Find reactions, shear forces and bending moments
 
 ## Installation
 
