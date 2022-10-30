@@ -5,4 +5,4 @@ class Punctual_Load:
     self.value = value
   
   def __str__(self):
-    return f'Punctual Load - position: {position}, value: {value}'
+    return f'Punctual Load - position: {self.position}, value: {self.value}'

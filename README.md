@@ -1,23 +1,22 @@
-# PyBeams
+# Estruturas
 
-Description. 
-The package PyBeams is used to:
+The package concreto is used to:
  - Calculate continuous hyperstatic beams,
  - Find reactions, shear forces and bending moments
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pybeams
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install estruturas
 
 ```bash
-pip install pybeams
+pip install estruturas
 ```
 
 ## Usage
 
 ```python
-from pybeams import beam 
-beam.create()
+from estruturas import Beam
+Beam()
 ```
 
 ## Author
